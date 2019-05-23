@@ -1,1 +1,10 @@
+<<<<<<< HEAD
+it's very annoying....
+
+Hi~~:)
+=======
 it's very happy
+>>>>>>> e46e30c6821502bcd29200508ece4221296415b1
+
+
+It's me:)
